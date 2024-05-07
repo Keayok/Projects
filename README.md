@@ -20,7 +20,7 @@ Welcome to my GitHub repository showcasing a collection of projects I've worked 
 - **Description**: Collaborated in a group project to engineer and design a specialized kitchen for individuals with Parkinson's Disease.
 - **Features**: Employed advanced 3D rendering techniques with interior design software, such as Homestyler, to vividly communicate the proposed changes with precision. Focused on appliance modification, considering the needs of the target users and proposing affordable solutions.
 - **Technologies Used**: Homestyler, 3D Rendering, Interior Design
-- **View Project**: [Parkinson's Kitchen Project]()
+- **View Project**: [Parkinson's Kitchen Project](https://github.com/Keayok/Projects/tree/cd7de87c5caffa33683a87f37a0d1cede9fe5e04/Parkinsons%20Kitchen)
 
 ### Food Dolly Project
 - **Description**: Contributed concept drawings and mechanical designs implemented into CATIA for a Food Dolly aimed at improving meal transport efficiency.
@@ -49,6 +49,6 @@ Welcome to my GitHub repository showcasing a collection of projects I've worked 
 ## Contact Information
 - **Email**: kayok@torontomu.ca
 - **GitHub**: [github.com/Keayok/Projects.git](github.com/Keayok/Projects.git)
-- **LinkedIn**: [linkedin.com/in/keith-nicholas-ayok](linkedin.com/in/keith-nicholas-ayok)
+- **LinkedIn**: [linkedin.com/in/keith-nicholas-ayok](www.linkedin.com/in/keith-nicholas-ayok)
 - **Phone**: (647)-897-2197
 - **Location**: Toronto, ON
