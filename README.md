@@ -47,8 +47,5 @@ Welcome to my GitHub repository showcasing a collection of projects I've worked 
 - **View Project**: [Walking Robot Project](https://github.com/Keayok/Projects/tree/3903697a22575d42058c630d364e6a178b6cab65/Walking%20Robot)
 
 ## Contact Information
-- **Email**: kayok@torontomu.ca
-- **GitHub**: [github.com/Keayok/Projects.git](github.com/Keayok/Projects.git)
 - **LinkedIn**: [linkedin.com/in/keith-nicholas-ayok](www.linkedin.com/in/keith-nicholas-ayok)
-- **Phone**: (647)-897-2197
-- **Location**: Toronto, ON
+
